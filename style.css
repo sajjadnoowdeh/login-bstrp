@@ -1,0 +1,43 @@
+body{
+    background-color: blue;
+}
+.img{
+    width: 50px;
+    border-radius: 50%;
+}
+.forget{
+    color: rgb(220, 218, 221);
+    text-decoration: none;
+    font-size: 12px;
+    text-align: end;
+}
+.back{
+    /* background-image: url(./mobile-login-concept-illustration_114360-83.jpg) ; */
+    background-repeat: no-repeat;
+
+}
+
+.logo{
+   width: 100%;
+}
+
+#basic-addon2{
+    background-color: #edeeef36;
+    border: 1px solid #e4e9ed96 !important;
+}
+
+input{
+    border: 1px solid #e4e9ed96 !important;
+}
+input::placeholder{
+    padding-left: 14px;
+    color: #dededea8;
+}
+i{
+    position:relative ;
+    top:25px;
+    font-size: 13px;
+    left:6px;
+    z-index: 2;
+    color: #dededea8;
+}
